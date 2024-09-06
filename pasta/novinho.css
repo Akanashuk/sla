@@ -1,0 +1,43 @@
+
+#zona1{
+background-color: lightblue;
+border-style: dotted;
+border-color: black;
+}
+#zona2{
+    background-color: lightcoral;
+    border-style: dotted;
+    border-color: black;
+}
+
+#zona3{
+    background-color: lightgreen;
+    border-style: dotted;
+    border-color: black;
+    justify-content: center;
+}
+
+#zoninha1{
+    background-color: lightblue;
+}
+
+#zoninha2{
+    background-color: lightcoral;
+}
+#zoninha3{
+    background-color: lightgreen;
+}
+
+
+#select1{
+    background-color: khaki;
+    
+}
+
+#enviar{
+    background-color: darkgreen;
+}
+
+#limpar{
+    background-color: darkorange;
+}
